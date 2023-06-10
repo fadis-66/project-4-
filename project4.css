@@ -1,0 +1,48 @@
+.main-sec {
+  background: transparent linear-gradient(180deg, #281eff 0%, #2dff8c 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: flex;
+  justify-content: center;
+  max-width: 1920px;
+  width: 100%;
+  max-height: 1080px;
+  height: 100%;
+  padding-top: 337px;
+  padding-bottom: 337px;
+}
+.h1-info {
+  font-size: 100px;
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  color: white;
+  padding-bottom: 10px;
+
+  text-align: center;
+  letter-spacing: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-shadow: 0px 0px 36px #00000087;
+}
+.h2-info {
+  font-size: 20px;
+  text-align: center;
+  margin: 0px;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  color: white;
+}
+.p-info {
+  font-size: 10px;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: white;
+}
+
+.inputSet {
+  background: #2bacb7 !important ;
+}
+
+.inputTextSize {
+  font-size: 16px !important;
+}
